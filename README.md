@@ -1,3 +1,3 @@
 # AWSNBAWebScraper
 
-[](ServerlessInfrastructureDiagram.png)
+![](ServerlessInfrastructureDiagram.png)
