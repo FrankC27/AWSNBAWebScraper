@@ -1,1 +1,3 @@
 # AWSNBAWebScraper
+
+[](ServerlessInfrastructureDiagram.png)
